@@ -180,7 +180,7 @@ Toutes les captures d'écran de l'application sont disponibles dans le dossier [
 ### 💼 Budgets
 
 | Liste des budgets | Créer un budget | Alerte en cas du dépassement de budget
-|:---:|:---:|
+|:---:|:---:|:---:|
 | ![Budgets](docs/screenshots/09_budgets.png) | ![Add Budget](docs/screenshots/010_add_budget.png) |![Alerte](docs/screenshots/18_dépassement_budget.png) |
 ### 📈 Statistiques
 
