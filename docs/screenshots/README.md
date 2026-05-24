@@ -1,0 +1,20 @@
+# Captures d'écran
+- `01_login.png` - Écran de connexion
+- `02_register.png` - Inscription
+- `03_home.png` - Dashboard / Accueil
+- `04_transactions.png` - Liste des transactions
+- `05_revenues.png` - Liste des revenus
+- `06_dépenses.png` - Liste des dépenses
+- `07_add_transaction_dépense.png` - Ajout d'une transaction de dépense
+- `08_add_transaction_revenu.png` - Ajout d'une transaction de revenu
+- `09_budgets.png` - Liste des budgets
+- `010_add_budget.png` - Ajout d'un budget
+- `11_statistics.png` - Graphiques statistiques
+- `11_statistics_2.png` - Graphiques statistiques
+- `12_profile.png` - Écran profil
+- `13_modifer_password.png` - Modifer le mot de passe
+- `14_dark_mode.png` - Mode sombre
+- `15_dark_mode.png` - Mode sombre
+- `16_dark_mode.png` - Mode sombre
+- `17_dark_mode.png` - Mode sombre
+- `18_dépassement_budget.png` - Alerte_Dépassement du budget
