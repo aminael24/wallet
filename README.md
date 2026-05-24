@@ -179,14 +179,14 @@ Toutes les captures d'écran de l'application sont disponibles dans le dossier [
 
 ### 💼 Budgets
 
-| Liste des budgets | Créer un budget | Alerte en cas du dépassement de budget
+| Liste des budgets | Créer un budget | Alerte en cas de dépassement de budget
 |:---:|:---:|:---:|
 | ![Budgets](docs/screenshots/09_budgets.png) | ![Add Budget](docs/screenshots/010_add_budget.png) |![Alerte](docs/screenshots/18_dépassement_budget.png) |
 ### 📈 Statistiques
 
 | Graphique camembert | Évolution mensuelle |
 |:---:|:---:|
-| ![Stats 1](docs/screenshots/11_statistics.png) | ![Stats 2](docs/screenshots/11_statistics_2.png) |
+| ![Stats 1](docs/screenshots/11_statistics_1.png) | ![Stats 2](docs/screenshots/11_statistics_2.png) |
 
 ### 👤 Profil
 
